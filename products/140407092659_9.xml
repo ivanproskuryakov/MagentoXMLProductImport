@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+	<item>
+		<Code>ЦБ-00000563</Code>
+		<Brand>Rugged Butts</Brand>
+		<SegmentSecond>Малышам</SegmentSecond>
+		<CategorySecond>Бриджи и шорты</CategorySecond>
+		<DescrRus>Удобные шорты с застежкой-молнией и поддерживающей резинкой сзади</DescrRus>
+		<DescrEng>These woven shorts tackle dapper-dude style from the bottom up. Their button-zip fly and interior adjustable waistband make them the smart and sharp choice for guys as they grow.</DescrEng>
+		<Category>Бриджи и шорты</Category>
+		<CategoryEng>Breeches and shorts</CategoryEng>
+		<CategoryEngSecond>Breeches and shorts</CategoryEngSecond>
+		<NameEng>Slate Woven Shorts</NameEng>
+		<NameRus>Шорты</NameRus>
+		<Segment>Малышам</Segment>
+		<Season>SS13</Season>
+		<CompEng>100% cotton</CompEng>
+		<CompRus>100% хлопок</CompRus>
+		<BrCountryRus>США</BrCountryRus>
+		<ProdRegEng>India</ProdRegEng>
+		<ProdRegRus>Индия</ProdRegRus>
+		<CareEng>Machine wash; tumble dry</CareEng>
+		<CareRus>Машинная стирка, сушить в стиральной машине</CareRus>
+		<ColorRus>Серый</ColorRus>
+		<ColorEng>Gray</ColorEng>
+		<Sizes>
+			<Size>
+				<ID>284a0d96-eed3-11e2-81ec-08606e68131e</ID>
+				<Barcode>2000000011622</Barcode>
+				<Remains>2</Remains>
+				<Price>1190</Price>
+				<DiscountPrice>1190</DiscountPrice>
+				<SizeRus>2</SizeRus>
+				<SizeEng>2</SizeEng>
+			</Size>
+			<Size>
+				<ID>284a0d97-eed3-11e2-81ec-08606e68131e</ID>
+				<Barcode>2000000011639</Barcode>
+				<Remains>1</Remains>
+				<Price>1190</Price>
+				<DiscountPrice>1190</DiscountPrice>
+				<SizeRus>3-6 мес.</SizeRus>
+				<SizeEng>3-6 m</SizeEng>
+			</Size>
+			<Size>
+				<ID>284a0d95-eed3-11e2-81ec-08606e68131e</ID>
+				<Barcode>2000000011615</Barcode>
+				<Remains>0</Remains>
+				<Price>1190</Price>
+				<DiscountPrice>1190</DiscountPrice>
+				<SizeRus>18-24 мес.</SizeRus>
+				<SizeEng>18-24 m</SizeEng>
+			</Size>
+		</Sizes>
+		<Images>
+			<img>20130721/RUGGEDBUTTSSlateWovenShortsInfantToddler1.jpg</img>
+			<img>20130721/RUGGEDBUTTSSlateWovenShortsInfantToddler2.jpg</img>
+		</Images>
+	</item>
+</Items>
